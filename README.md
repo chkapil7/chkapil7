@@ -36,8 +36,8 @@ Here are a few of my pinned or notable projects:
 ---
 
 ## 📫 How to Reach Me
-- 📧 Email: [chkapil1729@gmail.com](mailto:chkapil1729@gmail.com)
-- 🌐 LinkedIn: [Kapil Anirudh](https://www.linkedin.com/in/kapilanirudh/)
+- 📧 Email: [chkapilanirudh99@gmail.com](mailto:chkapilanirudh99@gmail.com)
+- 🌐 LinkedIn: [Kapil Anirudh Ch]([https://www.linkedin.com/in/kapilanirudh/](https://www.linkedin.com/in/kapil-anirudh-ch-6461b1207/))
 - 💬 Ask me about anything tech-related!
 
 ---

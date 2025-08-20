@@ -57,19 +57,19 @@
 
 ## 📂 Featured Projects
 <p align="center">
-  <a href="https://github.com/chkapil7/password-manager">
+  <a href="https://github.com/chkapil7/Malware-Detector">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chkapil7&repo=password-manager&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/chkapil7/deeptrace">
+  <a href="https://github.com/chkapil7/Pixel-Manipulation-for-Image-Encryption">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chkapil7&repo=deeptrace&theme=radical&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/chkapil7/chatbot">
+  <a href="https://github.com/chkapil7/Chatbot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chkapil7&repo=chatbot&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/chkapil7/zera">
+  <a href="https://github.com/chkapil7/Password-Complexity-Checker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chkapil7&repo=zera&theme=radical&hide_border=true" />
   </a>
 </p>
@@ -85,7 +85,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/chkapil7/chkapil7/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/chkapil7/chkapil7/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---

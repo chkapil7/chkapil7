@@ -1,72 +1,107 @@
-# 👋 Hey there! I'm Kapil Anirudh (@chkapil7)
+<!-- README.md -->
 
-[![GitHub followers](https://img.shields.io/github/followers/chkapil7?style=social)](https://github.com/chkapil7?tab=followers)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chkapil7&show_icons=true&theme=radical)](https://github.com/chkapil7)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chkapil7&layout=compact&theme=radical)](https://github.com/chkapil7)
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kapil%20Anirudh%20(@chkapil7)&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F78C&width=435&lines=Full+Stack+Developer;Cybersecurity+Researcher;AI+%26+ML+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
+<!-- Typing Intro -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7B3&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cybersecurity+Researcher;AI+%26+ML+Enthusiast;Building+Secure+%26+Scalable+Apps;Always+Learning+New+Tech"/>
+  </a>
+</p>
 
----
-
-## 💻 About Me
-- 🔭 I’m currently working on **Web Development Projects**.
-- 🌱 I’m learning **C, C++, Python, HTML, CSS, JavaScript** and exploring **Node.js** and **React**.
-- 🤝 I’m looking to collaborate on **open-source projects**, **web applications**, and **hackathons**.
-- 👨‍💻 I enjoy solving **coding challenges** and building **fun projects**.
-- 🎯 Goal: To become a **Full Stack Developer** and contribute to **meaningful tech**.
-
----
-
-## 🚀 My Tech Stack
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+<!-- Quick Links / Badges -->
+<p align="center">
+  <a href="https://github.com/chkapil7?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/chkapil7?style=flat-square&label=Followers"></a>
+  <a href="https://github.com/chkapil7?tab=stars"><img alt="Total Stars" src="https://img.shields.io/github/stars/chkapil7?style=flat-square&label=Stars"></a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=chkapil7&style=flat-square&color=blue">
+  <a href="mailto:chkapilanirudh99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chkapilanirudh99%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kapil-anirudh-ch-6461b1207/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kapil%20Anirudh-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
 
-## 🏆 Achievements & Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=chkapil7&theme=radical&no-frame=true&margin-w=10)
+## 🌟 About Me
+- 🔭 Working on **Web Development** & **Cybersecurity** projects.  
+- 🌱 Learning **C, C++, Python, JavaScript, Node.js, React, FastAPI, MongoDB**.  
+- 🤝 Open to collaborate on **open-source, hackathons, and research**.  
+- 👨‍💻 Love solving **coding challenges** and building **real-world apps**.  
+- 🎯 Goal: Become a **Full-Stack Developer & Security Engineer** and contribute to meaningful tech.  
 
 ---
 
-## 📊 GitHub Streak & Activity
-![GitHub Streak](https://streak-stats.demolab.com/?user=chkapil7&theme=radical&hide_border=true)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chkapil7&theme=tokyo-night)
+## 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,express,fastapi,mongodb,postgres,git,github,linux,vscode,docker&perline=9" />
+</p>
 
 ---
 
-## 📂 Featured Repositories
-Here are a few of my pinned or notable projects:
+## 🏆 GitHub Highlights
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chkapil7&theme=radical&hide_border=true" alt="streak"/>
+</p>
 
-[![Password Manager](https://img.shields.io/badge/🔐-Password_Manager-blue?style=for-the-badge)](https://github.com/chkapil7/password-manager)  
-[![DeepTrace](https://img.shields.io/badge/🌐-DeepTrace-orange?style=for-the-badge)](https://github.com/chkapil7/deeptrace)  
-[![RAG Chatbot](https://img.shields.io/badge/💬-RAG_Chatbot-green?style=for-the-badge)](https://github.com/chkapil7/chatbot)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chkapil7&show_icons=true&theme=radical&hide_border=true" height="170" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chkapil7&layout=compact&theme=radical&hide_border=true" height="170" alt="top langs"/>
+</p>
 
-➡️ Check out all my repositories here: [@chkapil7](https://github.com/chkapil7?tab=repositories)
-
----
-
-## 📫 How to Reach Me
-- 📧 Email: [chkapilanirudh99@gmail.com](mailto:chkapilanirudh99@gmail.com)
-- 🌐 LinkedIn: [Kapil Anirudh](https://www.linkedin.com/in/kapil-anirudh-ch-6461b1207/)
-- 💬 Ask me about anything tech-related!
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chkapil7&theme=radical&no-frame=true&margin-w=10&row=1" alt="trophies"/>
+</p>
 
 ---
 
-## ⚡ Fun Stuff
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+## 📂 Featured Projects
+<p align="center">
+  <a href="https://github.com/chkapil7/password-manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chkapil7&repo=password-manager&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/chkapil7/deeptrace">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chkapil7&repo=deeptrace&theme=radical&hide_border=true" />
+  </a>
+</p>
 
-🐍 Contribution Snake:  
-![GitHub Snake Animation](https://github.com/chkapil7/chkapil7/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <a href="https://github.com/chkapil7/chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chkapil7&repo=chatbot&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/chkapil7/zera">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chkapil7&repo=zera&theme=radical&hide_border=true" />
+  </a>
+</p>
 
 ---
 
-⭐️ From [@chkapil7](https://github.com/chkapil7)
+## 📊 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chkapil7&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/chkapil7/chkapil7/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🔗 Useful Links
+- 📁 All repositories: <a href="https://github.com/chkapil7?tab=repositories">github.com/chkapil7?tab=repositories</a>  
+- 🧠 Gists: <a href="https://gist.github.com/chkapil7">gist.github.com/chkapil7</a>  
+
+---
+
+## ⚡ Fun Corner
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>

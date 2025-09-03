@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kapil%20Anirudh%20(@chkapil7)&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kapil%20Anirudh%20CH%20(@chkapil7)&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff"/>
 </p>
 
 <!-- Typing Intro -->
